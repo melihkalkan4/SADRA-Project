@@ -1,0 +1,5 @@
+setup.py
+src/sadra.egg-info/PKG-INFO
+src/sadra.egg-info/SOURCES.txt
+src/sadra.egg-info/dependency_links.txt
+src/sadra.egg-info/top_level.txt
