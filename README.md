@@ -116,14 +116,3 @@ If you find this research useful, please cite our paper:
 Melih Kalkan Independent Researcher & Data Analyst LinkedIn | Email
 
 This project is released under the MIT License.
-
-
----
-
-1.  VS Code'da `README.md` dosyasını aç.
-2.  İçindeki her şeyi sil.
-3.  Yukarıdaki İngilizce metni yapıştır ve kaydet.
-4.  Terminale şu komutları gir:
-git add README.md
-git commit -m "Update: Comprehensive English README documentation"
-git push
